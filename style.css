@@ -1,0 +1,39 @@
+body{background-color:#E1FDDA;}
+.pharoh
+{color:grey; font-size:50px; font-style:cursive;}
+.date
+{color:grey; font-size:30px; font-weight:bold;}
+.introduction 
+{color:grey; font-size:25px; font-weight:bold;}
+.thumbnailcenter
+{color:darkgreen;}
+ .thumbnail {background-color: #eee;}
+    body {margin-top: 33px;}
+    .thumbnail .caption {background-color: #2C2D2A;}
+	img{background-color:#E1FDDA; border-radius:100px;border:solid #2C2D2A;}
+p
+{color:#2C2D2A;font-weight:bold; font-size:20px;}
+.timeline{color:darkred;font-weight:bold; font-size:20px;text-align:center;}
+h6{color:darkgreen; font-size:15px;border:solid grey 10px;width:290px;background-color:DARKGREY}
+.list{
+	text-align:left;
+	border:solid 2px #806868;
+	width:650px;
+	margin:10px;
+	padding:20px;
+}
+.list3{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	flex-wrap:wrap-reverse;
+	flex:0 3 auto;
+	border:solid 2px darkgreen;
+	width:1250px;
+	height:400px;
+	margin:10px;
+	padding:20px;
+	
+	
+	
+}
